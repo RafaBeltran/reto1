@@ -1,0 +1,73 @@
+.s1{
+   background-image: url(matrix.jpg) ;
+   text-align: center;
+   height: 300px;
+}
+.h1s1{
+    color: white;
+    margin-bottom: 50px;
+}
+.ps1{
+    color: white;
+    margin-bottom: 50px;
+}
+.buttons1{
+    width: 100px;
+    height: 60px;
+    color: white;
+    background-color: black;
+}
+.s2{
+    text-align: center;
+}
+.s21{
+    display: flex;
+}
+.s3{
+   margin-top: 50px;
+    display: flex;
+    background-color: black;
+    text-align: center;
+    
+}
+.carta{
+    margin-top: 50px;
+    width: 150px;
+    background-color: white;
+    margin: auto;
+}
+.h1cart{
+    color: black;
+}
+.pcart{
+    color: black;
+}
+.s4{
+    text-align: center;
+    height: 150px;
+}
+.s5{
+    display: flex;
+    text-align: center;
+    color: white;
+    height: 200px;
+}
+.s51{
+    background-color: blue;
+}
+.s52{
+    background-color: gray;
+}
+.s6{
+    display: flex;
+    text-align: center;
+    background-color: black;
+    height: 50px;
+    justify-content: space-around;
+}
+.S61{
+    color: white;
+}
+.S62{
+    color: white;
+}
